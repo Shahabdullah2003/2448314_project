@@ -1,0 +1,123 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.bgimage {
+  background-image: url('http://manavkartavya.org/wp-content/uploads/2018/08/gallery-banner.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  
+  background-repeat: no-repeat;
+  height: 400%;
+}
+
+.pfont1{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 30px;
+}
+
+.custombtn{
+  float: left;
+  width: 100%;
+}
+.custom1{
+border-radius: 20px;
+border-width: 3px;
+
+  margin-left: 6px;
+  
+  text-align: left;
+  margin-top: 45px;
+  margin-right: 6px;
+
+}
+
+.custbx{
+  margin-left: 2%;
+  width: 140%;
+}
+
+.footer1{
+  padding: 10px;
+  float: right;
+}
+.footer2{
+  padding: 10px;
+  float: left;
+}
+.footer{
+  background-color: maroon;
+  border-radius: 3px;
+  color: azure;
+  padding-top: 2px;
+  padding-bottom: 20px;
+}
+
+.box1{
+  border-radius: 20%;
+  margin-top: 2%;
+  margin-left: 65%;
+  float: right;
+  background-color: whitesmoke;
+  opacity: 90%;
+}
+
+.box2{
+  margin: 10%;
+}
+.customfont{
+  font-style: bold;
+  font-size: 16px;
+  color: black;
+  text-align: left;
+}
+
+.btnc{
+  margin-left: 40%;
+  justify-content: center;
+  align-items: center;
+}
+.btnc2{
+  margin-left: 15%;
+  justify-content: center;
+  align-items: center;
+}
+.custom2{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 18px;
+  border-width: 3px;
+  border-color: black;
+  padding: 13px;
+  opacity: 0.95;
+  background-color: aliceblue;
+}
+
+.pborder{
+  float: right;
+  width: 520px;
+    border-radius: 20px;
+  padding: 2px;
+  background-color: aliceblue;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
